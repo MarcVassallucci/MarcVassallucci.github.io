@@ -1,10 +1,9 @@
-title: John Smith
+title: Marc Vassallucci
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
-
+author: Marc Vassallucci
+logo: /oursbleu.github.io/static/img/avatar.png
+github: https://github.com/OursBleu
+about: Gameplay programmer
 baseurl: ""
 url: ""
 
