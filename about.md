@@ -6,8 +6,6 @@ permalink: /about/
 
 Hi !
 
-![image-title-here](static/img/avatar.png){:class="img-responsive"}
-
 I'm a gameplay programmer with additional skills in 3D and art.
 
 I've been in the game industry for one year and shipped a mobile game on which I did gameplay and UI programming.
@@ -20,3 +18,7 @@ I have a degree in computer science with a specialty in machine learning and net
 Before going to the university I studied animation, 2D and 3D art during a few years.
 
 I'm a game jam enthusiast and took part to around nine of them over the last few years, being in the top three in two of them.
+
+## BOTKEN
+
+![image-title-here](static/img/777.fig){:class="img-responsive"}
