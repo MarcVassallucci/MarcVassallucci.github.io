@@ -19,7 +19,27 @@ Before going to the university I studied animation, 2D and 3D art during a few y
 
 I'm a game jam enthusiast and took part to around nine of them over the last few years, being in the top three in two of them.
 
+## KITTY JOURNEY
+
+Kitty Journey is a released mobile puzzle game.
+
+![kitty-journey](/static/img/kj_map.png){:class="img-responsive"} ![kitty-journey](/static/img/kj_charms.png){:class="img-responsive"}
+
+I worked on multiple parts of the game :
+- **AI** : assists that pick the best possible targets according to the game state and the level goals
+- **backend programming** : allowing player to share lifes, custom analytics
+- **tools programming** : auto build and deploy tool, generating an enum to avoid fetching assets by name, faster integration with import scripts
+- **UI programming**
+
 ## BOTKEN
 
-![image-title-here](/static/img/gj_botken_1.gif){:class="img-responsive"}
-![image-title-here](/static/img/gj_botken_2.gif){:class="img-responsive"}
+Botken is an online mobile fighting game still in development.
+
+![botken-1](/static/img/gj_botken_1.gif){:class="img-responsive"}
+
+![botken-2](/static/img/gj_botken_2.gif){:class="img-responsive"}
+
+I worked on the networking of the game.
+The main constraints were :
+* making the gameplay code independent from the engine, allowing it to run on a very lightweight server
+* having a smooth experience at 250ms when playing over 3G
