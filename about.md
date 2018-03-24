@@ -23,7 +23,7 @@ I'm a game jam enthusiast and took part to around nine of them over the last few
 
 Kitty Journey is a released mobile puzzle game.
 
-![kitty-journey](/static/img/kj_map.png){:class="img-responsive"} ![kitty-journey](/static/img/kj_charms.png){:class="img-responsive"}
+![kitty-journey](/static/img/kj_map.png) ![kitty-journey-2](/static/img/kj_charms.png)
 
 I worked on multiple parts of the game :
 - **AI** : assists that pick the best possible targets according to the game state and the level goals
