@@ -1,18 +1,6 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
-    "icon": "fa-twitter",
-    "link": ""
-  },
-  {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://www.linkedin.com/in/marc-vassallucci-20537174/"
   },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
-  }
 ]
