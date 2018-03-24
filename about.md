@@ -6,7 +6,6 @@ permalink: /about/
 
 You will find here some of the projects I worked on.
 
-
 ## KITTY JOURNEY
 
 Kitty Journey is a released mobile puzzle game.
@@ -15,10 +14,9 @@ Kitty Journey is a released mobile puzzle game.
 
 I worked on multiple parts of the game :
 - **AI** : assists that pick the best possible targets according to the game state and the level goals
-- **backend programming** : allowing player to share lifes, custom analytics
-- **tools programming** : auto build and deploy tool, generating an enum to avoid fetching assets by name, faster integration with import scripts
-- **UI programming**
-
+- **backend** : allowing player to share lifes, custom analytics
+- **automatization** : auto build and deploy tool, generating an enum to avoid fetching assets by name, faster integration with import scripts
+- **UI**
 
 ## BOTKEN
 
