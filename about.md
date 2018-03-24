@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi !
 
-![image-title-here](/MarcVassallucci.github.io/static/img/avatar.jpg){:class="img-responsive"}
+![image-title-here](/MarcVassallucci.github.io/static/img/avatar.png){:class="img-responsive"}
 
 I'm a gameplay programmer with additional skills in 3D and art.
 
