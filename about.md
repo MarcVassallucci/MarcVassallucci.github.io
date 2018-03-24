@@ -21,4 +21,5 @@ I'm a game jam enthusiast and took part to around nine of them over the last few
 
 ## BOTKEN
 
-![image-title-here](static/img/777f.gif){:class="img-responsive"}
+![image-title-here](/static/img/gj_botken_1.gif){:class="img-responsive"}
+![image-title-here](/static/img/gj_botken_2.gif){:class="img-responsive"}
