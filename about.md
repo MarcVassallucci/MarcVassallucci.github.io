@@ -13,10 +13,10 @@ Kitty Journey is a released mobile puzzle game.
 ![kitty-journey](/static/img/kj.jpg){:class="img-responsive"}
 
 I worked on multiple parts of the game :
-- **AI** : assists that pick the best possible targets according to the game state and the level goals
-- **backend** : allowing player to share lifes, custom analytics
-- **automatization** : auto build and deploy tool, generating an enum to avoid fetching assets by name, faster integration with import scripts
-- **UI**
+- **AI** : improved auto-targetting by using a weight based heuristic
+- **backend** : setting up a server and a database to allow players to exchange game items
+- **automatization** : automatized the build and deployment processes, wrote various unity import scripts to speed up asset integration
+- **UI** : designed complex UI components
 
 ## BOTKEN
 
