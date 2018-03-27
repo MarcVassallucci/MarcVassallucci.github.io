@@ -25,9 +25,8 @@ Botken is an online mobile fighting game still in development.
 ![botken](/static/img/botken.jpg){:class="img-responsive"}
 
 I worked on the networking of the game.
-The main constraints were :
-* making the gameplay code independent from the engine libraries, allowing it to run on a very lightweight server
-* having a smooth experience at 250ms when playing over 3G
+- **latency** : reduced perceived latency with a client prediction and server reconciliation algorithm
+- **cheating** : made the game simulation engine-independent to run it on an authoritative server
 
 ![botken-1](/static/img/gj_botken_1.gif){:class="img-responsive"}
 
